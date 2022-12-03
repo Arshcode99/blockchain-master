@@ -7,7 +7,7 @@ const Header = () => {
     <>
       <nav className="z-50 sticky top-0 border-gray-200 px-2 sm:px-4 py-2.5 bg-mock-300">
         <div className="container flex flex-wrap items-center justify-between mx-auto">
-          <a href="https://flowbite.com/" className="flex items-center">
+          <a href="/" className="flex items-center">
             <Image src={Logo} className="h-6 mr-2 sm:h-9" alt="Blockchain Master Logo" />
             <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Blockchain Master</span>
           </a>
