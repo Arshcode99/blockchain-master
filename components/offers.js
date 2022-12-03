@@ -9,15 +9,15 @@ const Offers = () => {
   <hr />
   <br />
     <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
-      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-green-100 text-green-500 flex-shrink-0">
+      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
           <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
         </svg>
       </div>
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="text-green-600 text-lg title-font font-medium mb-2">Integration with all the most popular solutions</h2>
+        <h2 class="text-mock-300 text-lg title-font font-medium mb-2">Integration with all the most popular solutions</h2>
         <p class="leading-relaxed text-base">in the market so our clients are able to get everything in one place.</p>
-        <a class="mt-3 text-green-500 inline-flex items-center">Learn More
+        <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
@@ -26,15 +26,15 @@ const Offers = () => {
     </div>
     <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="text-green-600 text-lg title-font font-medium mb-2">24/7 technical support</h2>
+        <h2 class="text-mock-300 text-lg title-font font-medium mb-2">24/7 technical support</h2>
         <p class="leading-relaxed text-base">we offer institutional-grade tools & technology and complement those capabilities with bespoke attention when it came to problem solving.</p>
-        <a class="mt-3 text-green-500 inline-flex items-center">Learn More
+        <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
         </a>
       </div>
-      <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-green-100 text-green-500 flex-shrink-0">
+      <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
           <circle cx="6" cy="6" r="3"></circle>
           <circle cx="6" cy="18" r="3"></circle>
@@ -43,16 +43,16 @@ const Offers = () => {
       </div>
     </div>
     <div class="flex items-center lg:w-3/5 mx-auto sm:flex-row flex-col">
-      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-green-100 text-green-500 flex-shrink-0">
+      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
           <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
           <circle cx="12" cy="7" r="4"></circle>
         </svg>
       </div>
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="text-green-600 text-lg title-font font-medium mb-2">Professional access to exchange & Crypto liquidity</h2>
+        <h2 class="text-mock-300 text-lg title-font font-medium mb-2">Professional access to exchange & Crypto liquidity</h2>
         <p class="leading-relaxed text-base">via mulitple connection methods is available for all our clients.</p>
-        <a class="mt-3 text-green-500 inline-flex items-center">Learn More
+        <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
@@ -64,15 +64,15 @@ const Offers = () => {
     <br />
     <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="text-green-600 text-lg title-font font-medium mb-2">A full range of services</h2>
+        <h2 class="text-mock-300 text-lg title-font font-medium mb-2">A full range of services</h2>
         <p class="leading-relaxed text-base">We will provide all technical support like design, development & deployment services and will help you in your marketing needs like SEO/Digital marketing , community marketing etc.</p>
-        <a class="mt-3 text-green-500 inline-flex items-center">Learn More
+        <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
         </a>
       </div>
-      <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-green-100 text-green-500 flex-shrink-0">
+      <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
           <circle cx="6" cy="6" r="3"></circle>
           <circle cx="6" cy="18" r="3"></circle>
@@ -80,9 +80,9 @@ const Offers = () => {
         </svg>
       </div>
     </div>
-    <button class="flex mx-auto mt-20 text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg">Let's Talk</button>
+    <button class="flex mx-auto mt-20 text-white bg-mock-300 border-0 py-2 px-8 focus:outline-none hover:mock-300 rounded text-lg">Let's Talk</button>
   </div>
-</section> 
+     </section> 
     </>
   )
 }

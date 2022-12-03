@@ -18,7 +18,7 @@ const Company = () => {
         <div class="flex relative  border border-emerald-300 rounded-md">
           <Image alt="gallery" class="absolute inset-0 my-12 mx-auto object-cover" src={AuroraImg}/>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-green-500 mb-1">GREAT WORK</h2>
+            <h2 class="tracking-widest text-sm title-font font-medium text-mock-300 mb-1">GREAT WORK</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Aurora Exchange</h1>
             <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
           </div>
@@ -28,7 +28,7 @@ const Company = () => {
         <div class="flex relative  border border-emerald-300 rounded-md">
           <Image alt="gallery" class="absolute inset-0 my-12 mx-auto object-cover" src={KRYPTEXImg}/>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-green-500 mb-1">Amazing Team!</h2>
+            <h2 class="tracking-widest text-sm title-font font-medium text-mock-300 mb-1">Amazing Team!</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">KRYPTEX</h1>
             <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
           </div>
@@ -38,7 +38,7 @@ const Company = () => {
         <div class="flex relative  border border-emerald-300 rounded-md">
           <Image alt="gallery" class="absolute inset-0 my-12 mx-auto object-cover" src={TradecoinXImg} />
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-green-500 mb-1">Satisfied</h2>
+            <h2 class="tracking-widest text-sm title-font font-medium text-mock-300 mb-1">Satisfied</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">TradecoinX</h1>
             <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
           </div>
@@ -46,7 +46,7 @@ const Company = () => {
       </div>
     </div>
   </div>
-</section> 
+     </section> 
     </>
   );
 }

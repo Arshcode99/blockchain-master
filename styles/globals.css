@@ -12,6 +12,8 @@ a {
 * {
   box-sizing: border-box;
   font-family: 'Nunito Sans', sans-serif;
+  scroll-behavior: smooth;
+  transition: all 0.6s;
 }
 
 @media (prefers-color-scheme: dark) {
