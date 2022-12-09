@@ -31,7 +31,7 @@ export default function Home() {
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Building Into Blockchain Ecosystem</h1>
             <p class="mb-8 leading-relaxed">We develop Web3 applications on Ethereum, Polygon and other blockchains along-with Crypto exchanges, <br /> DeFi, NFTs, DAO & metaverse. Let Us build your next project.</p>
             <div class="flex justify-center">
-              <button class="inline-flex text-white bg-gradient-to-r from-yellow-500 to-mock-300 border-0 py-2 px-6 focus:outline-none hover:bg-black rounded text-lg">Explore</button>
+              <button class="inline-flex text-white bg-gradient-to-r from-indigo-600 to-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-black rounded text-lg">Explore</button>
               <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Instant connect</button>
             </div>
           </div>
@@ -43,12 +43,12 @@ export default function Home() {
             <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">Our Services</h1>
             <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">expertise and industry insights in every aspect of your business and guides you along the way ours growth and expansion we produce innovative solutions and add addional features to existing products every Month.</p>
             <div class="flex mt-6 justify-center">
-              <div class="w-16 h-1 rounded-full bg-mock-300 inline-flex"></div>
+              <div class="w-16 h-1 rounded-full bg-blue-600 inline-flex"></div>
             </div>
           </div>
           <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
             <div class="p-4 md:w-1/3 flex flex-col text-center items-center">
-              <div class="w-20 h-20 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 mb-5 flex-shrink-0">
+              <div class="w-20 h-20 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 mb-5 flex-shrink-0">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10" viewBox="0 0 24 24">
                   <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
                 </svg>
@@ -65,7 +65,7 @@ export default function Home() {
                   Liquidity solutions & market making bot,
                   Web/Mobile Development.
                 </p>
-                <a class="mt-3 text-mock-300 inline-flex items-center" data-modal-toggle="defaultModal">Learn More
+                <a class="mt-3 text-blue-600 inline-flex items-center" data-modal-toggle="defaultModal">Learn More
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
@@ -111,7 +111,7 @@ export default function Home() {
 
             </div>
             <div class="p-4 md:w-1/3 flex flex-col text-center items-center">
-              <div class="w-20 h-20 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 mb-5 flex-shrink-0">
+              <div class="w-20 h-20 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 mb-5 flex-shrink-0">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10" viewBox="0 0 24 24">
                   <circle cx="6" cy="6" r="3"></circle>
                   <circle cx="6" cy="18" r="3"></circle>
@@ -121,7 +121,7 @@ export default function Home() {
               <div class="flex-grow">
                 <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Design</h2>
                 <p class="leading-relaxed text-base">UI/UX, Branding, Front-End Development, Product Design, Design for Blockchain, Iconography & Graphic Design.</p>
-                <a class="mt-3 text-mock-300 inline-flex items-center" data-modal-toggle="staticModal">Learn More
+                <a class="mt-3 text-blue-600 inline-flex items-center" data-modal-toggle="staticModal">Learn More
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
@@ -165,7 +165,7 @@ export default function Home() {
 
             </div>
             <div class="p-4 md:w-1/3 flex flex-col text-center items-center">
-              <div class="w-20 h-20 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 mb-5 flex-shrink-0">
+              <div class="w-20 h-20 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 mb-5 flex-shrink-0">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10" viewBox="0 0 24 24">
                   <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
                   <circle cx="12" cy="7" r="4"></circle>
@@ -174,7 +174,7 @@ export default function Home() {
               <div class="flex-grow">
                 <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Consultant & marketing</h2>
                 <p class="leading-relaxed text-base">User Research, Smart Contract Pre-Auditing, Testing & Simulations, Wireframes & Systems Architecture, Blockchain Training, SEO/Digital marketing.</p>
-                <a class="mt-3 text-mock-300 inline-flex items-center" data-modal-toggle="popup-modal">Learn More
+                <a class="mt-3 text-blue-600 inline-flex items-center" data-modal-toggle="popup-modal">Learn More
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
@@ -217,7 +217,7 @@ export default function Home() {
 
             </div>
           </div>
-          <button class="flex mx-auto mt-16 text-white bg-mock-300 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg">Pricing</button>
+          <button class="flex mx-auto mt-16 text-white bg-blue-600 border-0 py-2 px-8 focus:outline-none hover:bg-blue-500 rounded text-lg">Pricing</button>
         </div>
       </section>
       <section class="text-gray-600 body-font" id='pricing'>
@@ -278,12 +278,12 @@ export default function Home() {
       </table>
     </div>
     <div class="flex pl-4 mt-4 lg:w-2/3 w-full mx-auto">
-      <a class="text-mock-300 inline-flex items-center md:mb-2 lg:mb-0">Learn More
+      <a class="text-blue-600 inline-flex items-center md:mb-2 lg:mb-0">Learn More
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
           <path d="M5 12h14M12 5l7 7-7 7"></path>
         </svg>
       </a>
-      <button class="flex ml-auto text-white bg-mock-300 border-0 py-2 px-6 focus:outline-none hover:bg-mock-300 rounded">Button</button>
+      <button class="flex ml-auto text-white bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded">Button</button>
     </div>
   </div>
       </section>
@@ -293,15 +293,15 @@ export default function Home() {
   <hr />
   <br />
     <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
-      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
+      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 flex-shrink-0">
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
           <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
         </svg>
       </div>
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="text-mock-300 text-lg title-font font-medium mb-2">Integration with all the most popular solutions</h2>
+        <h2 class="text-blue-600 text-lg title-font font-medium mb-2">Integration with all the most popular solutions</h2>
         <p class="leading-relaxed text-base">in the market so our clients are able to get everything in one place.</p>
-        <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
+        <a class="mt-3 text-blue-600 inline-flex items-center">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
@@ -310,15 +310,15 @@ export default function Home() {
     </div>
     <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="text-mock-300 text-lg title-font font-medium mb-2">24/7 technical support</h2>
+        <h2 class="text-blue-600 text-lg title-font font-medium mb-2">24/7 technical support</h2>
         <p class="leading-relaxed text-base">we offer institutional-grade tools & technology and complement those capabilities with bespoke attention when it came to problem solving.</p>
-        <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
+        <a class="mt-3 text-blue-600 inline-flex items-center">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
         </a>
       </div>
-      <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
+      <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 flex-shrink-0">
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
           <circle cx="6" cy="6" r="3"></circle>
           <circle cx="6" cy="18" r="3"></circle>
@@ -327,16 +327,16 @@ export default function Home() {
       </div>
     </div>
     <div class="flex items-center lg:w-3/5 mx-auto sm:flex-row flex-col">
-      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
+      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 flex-shrink-0">
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
           <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
           <circle cx="12" cy="7" r="4"></circle>
         </svg>
       </div>
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="text-mock-300 text-lg title-font font-medium mb-2">Professional access to exchange & Crypto liquidity</h2>
+        <h2 class="text-blue-600 text-lg title-font font-medium mb-2">Professional access to exchange & Crypto liquidity</h2>
         <p class="leading-relaxed text-base">via mulitple connection methods is available for all our clients.</p>
-        <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
+        <a class="mt-3 text-blue-600 inline-flex items-center">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
@@ -348,15 +348,15 @@ export default function Home() {
     <br />
     <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="text-mock-300 text-lg title-font font-medium mb-2">A full range of services</h2>
+        <h2 class="text-blue-600 text-lg title-font font-medium mb-2">A full range of services</h2>
         <p class="leading-relaxed text-base">We will provide all technical support like design, development & deployment services and will help you in your marketing needs like SEO/Digital marketing , community marketing etc.</p>
-        <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
+        <a class="mt-3 text-blue-600 inline-flex items-center">Learn More
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
         </a>
       </div>
-      <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
+      <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 flex-shrink-0">
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
           <circle cx="6" cy="6" r="3"></circle>
           <circle cx="6" cy="18" r="3"></circle>
@@ -364,7 +364,7 @@ export default function Home() {
         </svg>
       </div>
     </div>
-    <button class="flex mx-auto mt-20 text-white bg-mock-300 border-0 py-2 px-8 focus:outline-none hover:mock-300 rounded text-lg">Let's Talk</button>
+    <button class="flex mx-auto mt-20 text-white bg-blue-600 border-0 py-2 px-8 focus:outline-none hover:blue-600 rounded text-lg">Let's Talk</button>
   </div>
      </section>
      <section class="text-gray-600 body-font" id='benifits'>
@@ -372,7 +372,7 @@ export default function Home() {
     <div class="flex flex-wrap w-full mb-20">
       <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
         <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">We are company which will</h1>
-        <div class="h-1 w-20 bg-mock-300 rounded"></div>
+        <div class="h-1 w-20 bg-blue-600 rounded"></div>
       </div>
       <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Inhance Your Brand Value In The Market And Provide Sustainable Growth, Integration with all the most popular solutions in the market so our clients are able to get everything in one place, Professional access to exchange & Crypto liquidity via mulitple connection methods is available for all our clients.</p>
     </div>
@@ -380,7 +380,7 @@ export default function Home() {
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content"/>
-          <h3 class="tracking-widest text-mock-300 text-xs font-medium title-font">1</h3>
+          <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">1</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Provide</h2>
           <p class="leading-relaxed text-base">advanced client service from the time of contract-signing.</p>
         </div>
@@ -388,7 +388,7 @@ export default function Home() {
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content"/>
-          <h3 class="tracking-widest text-mock-300 text-xs font-medium title-font">2</h3>
+          <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">2</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Cares</h2>
           <p class="leading-relaxed text-base">for your success.</p>
         </div>
@@ -396,7 +396,7 @@ export default function Home() {
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content"/>
-          <h3 class="tracking-widest text-mock-300 text-xs font-medium title-font">3</h3>
+          <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">3</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Grow</h2>
           <p class="leading-relaxed text-base">faster than others.</p>
         </div>
@@ -404,7 +404,7 @@ export default function Home() {
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content"/>
-          <h3 class="tracking-widest text-mock-300 text-xs font-medium title-font">4</h3>
+          <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">4</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Client-care</h2>
           <p class="leading-relaxed text-base">our guarantees, staff-training and onsite and offsite support.</p>
         </div>
@@ -414,7 +414,7 @@ export default function Home() {
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content"/>
-          <h3 class="tracking-widest text-mock-300 text-xs font-medium title-font">5</h3>
+          <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">5</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Understands</h2>
           <p class="leading-relaxed text-base">responsibility for both our own corporate & their end users.</p>
         </div>
@@ -422,7 +422,7 @@ export default function Home() {
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content"/>
-          <h3 class="tracking-widest text-mock-300 text-xs font-medium title-font">6</h3>
+          <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">6</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Share</h2>
           <p class="leading-relaxed text-base">expertise and industry insights in every aspect of your business and guides you along the way.</p>
         </div>
@@ -430,7 +430,7 @@ export default function Home() {
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content"/>
-          <h3 class="tracking-widest text-mock-300 text-xs font-medium title-font">7</h3>
+          <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">7</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">We serve</h2>
           <p class="leading-relaxed text-base">everyone on an equal footing with utmost professionalism and deep involvement in all the details.</p>
         </div>
@@ -438,7 +438,7 @@ export default function Home() {
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content"/>
-          <h3 class="tracking-widest text-mock-300 text-xs font-medium title-font">8</h3>
+          <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">8</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Never stop</h2>
           <p class="leading-relaxed text-base">ours growth and expansion we produce innovative solutions and add addional features to existing products every Month.</p>
         </div>
@@ -453,7 +453,7 @@ export default function Home() {
     <div class="flex flex-wrap -m-4">
       <div class="p-4 lg:w-1/2 md:w-full">
         <div class="flex border-2 rounded-lg border-gray-200 border-opacity-50 p-8 sm:flex-row flex-col">
-          <div class="w-16 h-16 sm:mr-8 sm:mb-0 mb-4 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
+          <div class="w-16 h-16 sm:mr-8 sm:mb-0 mb-4 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 flex-shrink-0">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-8 h-8" viewBox="0 0 24 24">
               <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
             </svg>
@@ -461,7 +461,7 @@ export default function Home() {
           <div class="flex-grow">
             <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Leading-edge technology.</h2>
             <p class="leading-relaxed text-base">Hundreds of thousands of apps have alreqdy been built with our stock and framework, including AirBNB, Shopify, SoundCloud, Twitch, GitHUb, and Zendesk.</p>
-            <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
+            <a class="mt-3 text-blue-600 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
@@ -471,7 +471,7 @@ export default function Home() {
       </div>
       <div class="p-4 lg:w-1/2 md:w-full">
         <div class="flex border-2 rounded-lg border-gray-200 border-opacity-50 p-8 sm:flex-row flex-col">
-          <div class="w-16 h-16 sm:mr-8 sm:mb-0 mb-4 inline-flex items-center justify-center rounded-full bg-green-100 text-mock-300 flex-shrink-0">
+          <div class="w-16 h-16 sm:mr-8 sm:mb-0 mb-4 inline-flex items-center justify-center rounded-full bg-green-100 text-blue-600 flex-shrink-0">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10" viewBox="0 0 24 24">
               <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
               <circle cx="12" cy="7" r="4"></circle>
@@ -481,7 +481,7 @@ export default function Home() {
             <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Self-healing planet-scale cloud</h2>
             <p class="leading-relaxed text-base">Based on the same principles that Google, Amazon and Microsoft reply on every day when running billions of cloud containers, we design crypto exchange cloud sloutions.
 Software Development Process</p>
-            <a class="mt-3 text-mock-300 inline-flex items-center">Learn More
+            <a class="mt-3 text-blue-600 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
@@ -500,7 +500,7 @@ Software Development Process</p>
           <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
-          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-mock-300 inline-flex items-center justify-center text-white relative z-10">
+          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
               <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
             </svg>
@@ -514,7 +514,7 @@ Software Development Process</p>
           <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
-          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-mock-300 inline-flex items-center justify-center text-white relative z-10">
+          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
               <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
             </svg>
@@ -528,7 +528,7 @@ Software Development Process</p>
           <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
-          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-mock-300 inline-flex items-center justify-center text-white relative z-10">
+          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
               <circle cx="12" cy="5" r="3"></circle>
               <path d="M12 22V8M5 12H2a10 10 0 0020 0h-3"></path>
@@ -543,7 +543,7 @@ Software Development Process</p>
           <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
-          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-mock-300 inline-flex items-center justify-center text-white relative z-10">
+          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
               <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
               <circle cx="12" cy="7" r="4"></circle>
@@ -558,7 +558,7 @@ Software Development Process</p>
           <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
-          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-mock-300 inline-flex items-center justify-center text-white relative z-10">
+          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
               <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
               <circle cx="12" cy="7" r="4"></circle>
@@ -573,7 +573,7 @@ Software Development Process</p>
           <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
-          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-mock-300 inline-flex items-center justify-center text-white relative z-10">
+          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
               <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
               <circle cx="12" cy="7" r="4"></circle>
@@ -588,7 +588,7 @@ Software Development Process</p>
           <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
-          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-mock-300 inline-flex items-center justify-center text-white relative z-10">
+          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
               <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
               <circle cx="12" cy="7" r="4"></circle>
@@ -600,7 +600,7 @@ Software Development Process</p>
           </div>
         </div>
         <div class="flex relative">
-          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-mock-300 inline-flex items-center justify-center text-white relative z-10">
+          <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
               <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
               <path d="M22 4L12 14.01l-3-3"></path>
@@ -826,7 +826,7 @@ Software Development Process</p>
         <div class="flex relative  border border-emerald-300 rounded-md">
           <Image alt="gallery" class="absolute inset-0 my-12 mx-auto object-cover" src={AuroraImg}/>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-mock-300 mb-1">GREAT WORK</h2>
+            <h2 class="tracking-widest text-sm title-font font-medium text-blue-600 mb-1">GREAT WORK</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Aurora Exchange</h1>
             <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
           </div>
@@ -836,7 +836,7 @@ Software Development Process</p>
         <div class="flex relative  border border-emerald-300 rounded-md">
           <Image alt="gallery" class="absolute inset-0 my-12 mx-auto object-cover" src={KRYPTEXImg}/>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-mock-300 mb-1">Amazing Team!</h2>
+            <h2 class="tracking-widest text-sm title-font font-medium text-blue-600 mb-1">Amazing Team!</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">KRYPTEX</h1>
             <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
           </div>
@@ -846,7 +846,7 @@ Software Development Process</p>
         <div class="flex relative  border border-emerald-300 rounded-md">
           <Image alt="gallery" class="absolute inset-0 my-12 mx-auto object-cover" src={TradecoinXImg} />
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-mock-300 mb-1">Satisfied</h2>
+            <h2 class="tracking-widest text-sm title-font font-medium text-blue-600 mb-1">Satisfied</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">TradecoinX</h1>
             <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
           </div>
@@ -866,9 +866,9 @@ Software Development Process</p>
         </div>
         <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
-          <a class="text-mock-300 leading-relaxed">Blockchainmasters@email.com</a>
+          <a class="text-blue-600 leading-relaxed">Blockchainmasters@email.com</a>
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">INSTANT CHAT</h2>
-          <a class="text-mock-300 leading-relaxed">Open Chat</a>
+          <a class="text-blue-600 leading-relaxed">Open Chat</a>
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
           <p class="leading-relaxed">+91 7209236123</p>
         </div>
@@ -879,21 +879,21 @@ Software Development Process</p>
       <p class="leading-relaxed mb-5 text-gray-600">Post-ironic portland shabby chic echo park, banjo fashion axe</p>
       <div class="relative mb-4">
         <label for="name" class="leading-7 text-sm text-gray-600">Name</label>
-        <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-mock-300 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
+        <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
       </div>
       <div class="relative mb-4">
         <label for="email" class="leading-7 text-sm text-gray-600">Email</label>
-        <input type="email" id="email" name="email" class="w-full bg-white rounded border border-gray-300 focus:border-mock-300 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
+        <input type="email" id="email" name="email" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
       </div>
       <div class="relative mb-4">
         <label for="Phone" class="leading-7 text-sm text-gray-600">Phone No.</label>
-        <input type="phone" id="phone" name="phone" class="w-full bg-white rounded border border-gray-300 focus:border-mock-300 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
+        <input type="phone" id="phone" name="phone" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
       </div>
       <div class="relative mb-4">
         <label for="message" class="leading-7 text-sm text-gray-600">Message</label>
-        <textarea id="message" name="message" class="w-full bg-white rounded border border-gray-300 focus:border-mock-300 focus:ring-2 focus:ring-green-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
+        <textarea id="message" name="message" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
       </div>
-      <button class="text-white bg-mock-300 border-0 py-2 px-6 focus:outline-none hover:bg-mock-300 rounded text-lg">Submit</button>
+      <button class="text-white bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">Submit</button>
       <p class="text-xs text-gray-500 mt-3">*By Submiting Your Data You are agree that we will use this data to only contact you.</p>
     </div>
   </div>
