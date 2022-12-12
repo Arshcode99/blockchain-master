@@ -34,7 +34,7 @@ export default function Home() {
             <p class="mb-8 leading-relaxed">We develop Web3 applications on Ethereum, Polygon and other blockchains along-with Crypto exchanges, <br /> DeFi, NFTs, DAO & metaverse. Let Us build your next project.</p>
             <div class="flex justify-center">
               <a href='#services' class="inline-flex text-white bg-gradient-to-r from-indigo-600 to-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-black rounded text-lg">Explore</a>
-              <a href='#contact' class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Instant connect</a>
+              <a href='tel:+91-7209236123' class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Instant connect</a>
             </div>
           </div>
         </div>
