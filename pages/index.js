@@ -33,8 +33,8 @@ export default function Home() {
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Building Into Blockchain Ecosystem</h1>
             <p class="mb-8 leading-relaxed">We develop Web3 applications on Ethereum, Polygon and other blockchains along-with Crypto exchanges, <br /> DeFi, NFTs, DAO & metaverse. Let Us build your next project.</p>
             <div class="flex justify-center">
-              <a href='#' class="inline-flex text-white bg-gradient-to-r from-indigo-600 to-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-black rounded text-lg">Explore</a>
-              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Instant connect</button>
+              <a href='#services' class="inline-flex text-white bg-gradient-to-r from-indigo-600 to-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-black rounded text-lg">Explore</a>
+              <a href='#contact' class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Instant connect</a>
             </div>
           </div>
         </div>
@@ -298,7 +298,7 @@ export default function Home() {
         </svg>
       </div>
     </div>
-    <button class="flex mx-auto mt-20 text-white bg-blue-600 border-0 py-2 px-8 focus:outline-none hover:blue-600 rounded text-lg">Let's Talk</button>
+    <a href='#contact' class="flex mx-auto mt-20 text-white bg-blue-600 border-0 py-2 px-8 focus:outline-none hover:blue-600 rounded text-lg">Let's Talk</a>
   </div>
      </section>
      <section class="text-gray-600 body-font" id='benifits'>
@@ -591,12 +591,12 @@ Software Development Process</p>
           <p class="mt-1">Sushant Lok Phase-1, Sector 43, Gurgaon <br />122009, Haryana, India.</p>
         </div>
         <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
-          <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
-          <a class="text-blue-600 leading-relaxed">reactjsofficial1@email.com</a>
+          <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs"></h2>
+          <a class="text-blue-600 leading-relaxed"></a>
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">INSTANT CHAT</h2>
           <a class="text-blue-600 leading-relaxed">Open Chat</a>
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
-          <p class="leading-relaxed">+91 7209236123 | +91 7764056669</p>
+          <p class="leading-relaxed">+91 7209236123</p>
         </div>
       </div>
     </div>
