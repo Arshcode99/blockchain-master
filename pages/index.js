@@ -29,11 +29,11 @@ export default function Home() {
         <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
           <Image class="lg:w-2/6 md:w-3/6 w-80 mb-10 object-cover object-center rounded" alt="hero" src={HeroImg} />
           <div class="text-center lg:w-2/3 w-full">
-          <p class="mb-8 leading-relaxed p-3 border-2 border-l-purple-300 w-full my-0.5 mx-auto rounded-md">Explore & Collaborate With The New Gen-Technology</p>
+          <p class="mb-8 leading-relaxed p-3">Explore & Collaborate With The New Gen-Technology</p>
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Building Into Blockchain Ecosystem</h1>
             <p class="mb-8 leading-relaxed">We develop Web3 applications on Ethereum, Polygon and other blockchains along-with Crypto exchanges, <br /> DeFi, NFTs, DAO & metaverse. Let Us build your next project.</p>
             <div class="flex justify-center">
-              <button class="inline-flex text-white bg-gradient-to-r from-indigo-600 to-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-black rounded text-lg">Explore</button>
+              <a href='#' class="inline-flex text-white bg-gradient-to-r from-indigo-600 to-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-black rounded text-lg">Explore</a>
               <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Instant connect</button>
             </div>
           </div>
@@ -603,24 +603,26 @@ Software Development Process</p>
     <div class="p-3 lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
       <h2 class="text-gray-900 text-lg mb-1 font-medium title-font">Reqeust Call</h2>
       <p class="leading-relaxed mb-5 text-gray-600">Connect with us and let us help you with Your projects!</p>
+      <form target="_blank" action="https://formsubmit.co/reactjsofficial1@gmail.com" method="POST">
       <div class="relative mb-4">
         <label for="name" class="leading-7 text-sm text-gray-600">Name</label>
-        <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
+        <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required/>
       </div>
       <div class="relative mb-4">
         <label for="email" class="leading-7 text-sm text-gray-600">Email</label>
-        <input type="email" id="email" name="email" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
+        <input type="email" id="email" name="email" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required/>
       </div>
       <div class="relative mb-4">
         <label for="Phone" class="leading-7 text-sm text-gray-600">Phone No.</label>
-        <input type="phone" id="phone" name="phone" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
+        <input type="phone" id="phone" name="phone" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" required/>
       </div>
       <div class="relative mb-4">
         <label for="message" class="leading-7 text-sm text-gray-600">Message</label>
-        <textarea id="message" name="message" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
+        <textarea id="message" name="message" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out" required></textarea>
       </div>
-      <button class="text-white bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">Submit</button>
+      <button type='submit' class="text-white bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">Submit</button>
       <p class="text-xs text-gray-500 mt-3">*By Submiting Your Data You are agree that we will use this data to only contact you.</p>
+      </form>
     </div>
   </div>
      </section>
