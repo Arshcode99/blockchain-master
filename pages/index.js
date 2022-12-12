@@ -431,7 +431,7 @@ Software Development Process</p>
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">Understanding your needs</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
         <div class="flex relative pb-12">
@@ -445,7 +445,7 @@ Software Development Process</p>
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">Formulating a scheme</h2>
-            <p class="leading-relaxed">Vice migas literally kitsch +1 pok pok. Truffaut hot chicken slow-carb health goth, vape typewriter.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
         <div class="flex relative pb-12">
@@ -460,7 +460,7 @@ Software Development Process</p>
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">Signing Contracts</h2>
-            <p class="leading-relaxed">Coloring book nar whal glossier master cleanse umami. Salvia +1 master cleanse blog taiyaki.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
         <div class="flex relative pb-12">
@@ -475,7 +475,7 @@ Software Development Process</p>
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">Collection Domains</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
         <div class="flex relative pb-12">
@@ -491,7 +491,7 @@ Software Development Process</p>
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">System Training</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
         <div class="flex relative pb-12">
@@ -506,7 +506,7 @@ Software Development Process</p>
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">Project Acceptance</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
         <div class="flex relative pb-12">
@@ -521,7 +521,7 @@ Software Development Process</p>
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">Online Operations</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
         <div class="flex relative">
@@ -545,7 +545,7 @@ Software Development Process</p>
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
       <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Our Happy Clients</h1>
-      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
+      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Know What Our Clients Have To Say.</p>
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="lg:w-1/3 sm:w-1/2 p-4">
@@ -554,7 +554,7 @@ Software Development Process</p>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-blue-600 mb-1">GREAT WORK</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Aurora Exchange</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
       </div>
@@ -564,7 +564,7 @@ Software Development Process</p>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-blue-600 mb-1">Amazing Team!</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">KRYPTEX</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
       </div>
@@ -574,7 +574,7 @@ Software Development Process</p>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-blue-600 mb-1">Satisfied</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">TradecoinX</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+            <p class="leading-relaxed"></p>
           </div>
         </div>
       </div>
