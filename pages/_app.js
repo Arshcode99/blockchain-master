@@ -7,8 +7,8 @@ import Footer from '../components/footer'
 function MyApp({ Component, pageProps }) {
   return <>
         <Head>
-        <title>Blockchain Master - Next Gen Technology</title>
-        <meta name="description" content="Blockchain Master - Next Gen Technology" />
+        <title>Bitreino - Next Gen Technology</title>
+        <meta name="description" content="Bitreino - Next Gen Technology" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

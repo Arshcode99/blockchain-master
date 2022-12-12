@@ -1,23 +1,25 @@
 import Image from 'next/image'
-import PImg1 from '../public/ashutosh-singh-logo.png'
-import PImg2 from '../public/ayush-pandey-logo.png'
-import PImg3 from '../public/gopesh-dubey-logo.png'
-import PImg4 from '../public/rajeev-ranjan-logo.png'
-import PImg5 from '../public/raushan-kumar-logo.png'
-import PImg6 from '../public/rishabh-sharma-logo.png'
-import PImg7 from '../public/sundeep-kumar-logo.png'
+import PImg1 from '../public/undraw_adventure_re_ncqp.svg'
+import PImg2 from '../public/undraw_bitcoin_re_urgq.svg'
+import PImg3 from '../public/undraw_exams_re_4ios.svg'
+import PImg4 from '../public/undraw_financial_data_re_p0fl.svg'
+import PImg5 from '../public/undraw_join_re_w1lh.svg'
+import PImg6 from '../public/undraw_live_collaboration_re_60ha.svg'
+import PImg7 from '../public/undraw_multitasking_re_ffpb.svg'
+import PImg8 from '../public/undraw_real_time_collaboration_c62i.svg'
+import koxImg from '../public/undraw_online_collaboration_re_bkpm.svg'
 import AuroraImg from '../public/aurora-banner.png'
 import KRYPTEXImg from '../public/kryptex-banner.png'
 import TradecoinXImg from '../public/tradecoin-banner.png'
-import Benifits from '../components/benifits'
-import Company from '../components/company'
-import Contact from '../components/contact'
-import Moreinfo from '../components/moreinfo'
-import Offers from '../components/offers'
-import Pricing from '../components/pricing'
-import Services from '../components/services'
-import Team from '../components/team'
-import Workprocess from '../components/workprocess'
+// import Benifits from '../components/benifits'
+// import Company from '../components/company'
+// import Contact from '../components/contact'
+// import Moreinfo from '../components/moreinfo'
+// import Offers from '../components/offers'
+// import Pricing from '../components/pricing'
+// import Services from '../components/services'
+// import Team from '../components/team'
+// import Workprocess from '../components/workprocess'
 import HeroImg from '../public/hero-Img.svg'
 
 export default function Home() {
@@ -217,75 +219,7 @@ export default function Home() {
 
             </div>
           </div>
-          <button class="flex mx-auto mt-16 text-white bg-blue-600 border-0 py-2 px-8 focus:outline-none hover:bg-blue-500 rounded text-lg">Pricing</button>
         </div>
-      </section>
-      <section class="text-gray-600 body-font" id='pricing'>
-  <div class="container px-5 py-24 mx-auto">
-    <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="sm:text-4xl text-3xl font-medium title-font mb-2 text-gray-900">Pricing</h1>
-      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Banh mi cornhole echo park skateboard authentic crucifix neutra tilde lyft biodiesel artisan direct trade mumblecore 3 wolf moon twee</p>
-    </div>
-    <div class="lg:w-2/3 w-full mx-auto overflow-auto">
-      <table class="table-auto w-full text-left whitespace-no-wrap">
-        <thead>
-          <tr>
-            <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100 rounded-tl rounded-bl">Plan</th>
-            <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100">Speed</th>
-            <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100">Storage</th>
-            <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100">Price</th>
-            <th class="w-10 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-100 rounded-tr rounded-br"></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="px-4 py-3">Start</td>
-            <td class="px-4 py-3">5 Mb/s</td>
-            <td class="px-4 py-3">15 GB</td>
-            <td class="px-4 py-3 text-lg text-gray-900">Free</td>
-            <td class="w-10 text-center">
-              <input name="plan" type="radio"/>
-            </td>
-          </tr>
-          <tr>
-            <td class="border-t-2 border-gray-200 px-4 py-3">Pro</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3">25 Mb/s</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3">25 GB</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3 text-lg text-gray-900">$24</td>
-            <td class="border-t-2 border-gray-200 w-10 text-center">
-              <input name="plan" type="radio"/>
-            </td>
-          </tr>
-          <tr>
-            <td class="border-t-2 border-gray-200 px-4 py-3">Business</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3">36 Mb/s</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3">40 GB</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3 text-lg text-gray-900">$50</td>
-            <td class="border-t-2 border-gray-200 w-10 text-center">
-              <input name="plan" type="radio"/>
-            </td>
-          </tr>
-          <tr>
-            <td class="border-t-2 border-b-2 border-gray-200 px-4 py-3">Exclusive</td>
-            <td class="border-t-2 border-b-2 border-gray-200 px-4 py-3">48 Mb/s</td>
-            <td class="border-t-2 border-b-2 border-gray-200 px-4 py-3">120 GB</td>
-            <td class="border-t-2 border-b-2 border-gray-200 px-4 py-3 text-lg text-gray-900">$72</td>
-            <td class="border-t-2 border-b-2 border-gray-200 w-10 text-center">
-              <input name="plan" type="radio"/>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="flex pl-4 mt-4 lg:w-2/3 w-full mx-auto">
-      <a class="text-blue-600 inline-flex items-center md:mb-2 lg:mb-0">Learn More
-        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-          <path d="M5 12h14M12 5l7 7-7 7"></path>
-        </svg>
-      </a>
-      <button class="flex ml-auto text-white bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded">Button</button>
-    </div>
-  </div>
       </section>
       <section class="text-gray-600 body-font" id='offers'>
   <div class="container px-5 py-24 mx-auto">
@@ -379,7 +313,7 @@ export default function Home() {
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content"/>
+          <Image class=" h-48 rounded w-full object-cover object-center mb-6" src={PImg1} alt="content"/>
           <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">1</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Provide</h2>
           <p class="leading-relaxed text-base">advanced client service from the time of contract-signing.</p>
@@ -387,7 +321,7 @@ export default function Home() {
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content"/>
+          <Image class=" h-48 rounded w-full object-cover object-center mb-6" src={PImg2} alt="content"/>
           <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">2</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Cares</h2>
           <p class="leading-relaxed text-base">for your success.</p>
@@ -395,7 +329,7 @@ export default function Home() {
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content"/>
+          <Image class=" h-48 rounded w-full object-cover object-center mb-6" src={PImg3} alt="content"/>
           <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">3</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Grow</h2>
           <p class="leading-relaxed text-base">faster than others.</p>
@@ -403,7 +337,7 @@ export default function Home() {
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content"/>
+          <Image class=" h-48 rounded w-full object-cover object-center mb-6" src={PImg4} alt="content"/>
           <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">4</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Client-care</h2>
           <p class="leading-relaxed text-base">our guarantees, staff-training and onsite and offsite support.</p>
@@ -413,7 +347,7 @@ export default function Home() {
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content"/>
+          <Image class=" h-48 rounded w-full object-cover object-center mb-6" src={PImg5} alt="content"/>
           <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">5</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Understands</h2>
           <p class="leading-relaxed text-base">responsibility for both our own corporate & their end users.</p>
@@ -421,7 +355,7 @@ export default function Home() {
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content"/>
+          <Image class=" h-48 rounded w-full object-cover object-center mb-6" src={PImg6} alt="content"/>
           <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">6</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Share</h2>
           <p class="leading-relaxed text-base">expertise and industry insights in every aspect of your business and guides you along the way.</p>
@@ -429,7 +363,7 @@ export default function Home() {
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content"/>
+          <Image class=" h-48 rounded w-full object-cover object-center mb-6" src={PImg7} alt="content"/>
           <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">7</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">We serve</h2>
           <p class="leading-relaxed text-base">everyone on an equal footing with utmost professionalism and deep involvement in all the details.</p>
@@ -437,7 +371,7 @@ export default function Home() {
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content"/>
+          <Image class=" h-48 rounded w-full object-cover object-center mb-6" src={PImg8} alt="content"/>
           <h3 class="tracking-widest text-blue-600 text-xs font-medium title-font">8</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Never stop</h2>
           <p class="leading-relaxed text-base">ours growth and expansion we produce innovative solutions and add addional features to existing products every Month.</p>
@@ -461,11 +395,6 @@ export default function Home() {
           <div class="flex-grow">
             <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Leading-edge technology.</h2>
             <p class="leading-relaxed text-base">Hundreds of thousands of apps have alreqdy been built with our stock and framework, including AirBNB, Shopify, SoundCloud, Twitch, GitHUb, and Zendesk.</p>
-            <a class="mt-3 text-blue-600 inline-flex items-center">Learn More
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                <path d="M5 12h14M12 5l7 7-7 7"></path>
-              </svg>
-            </a>
           </div>
         </div>
       </div>
@@ -481,11 +410,6 @@ export default function Home() {
             <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Self-healing planet-scale cloud</h2>
             <p class="leading-relaxed text-base">Based on the same principles that Google, Amazon and Microsoft reply on every day when running billions of cloud containers, we design crypto exchange cloud sloutions.
 Software Development Process</p>
-            <a class="mt-3 text-blue-600 inline-flex items-center">Learn More
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                <path d="M5 12h14M12 5l7 7-7 7"></path>
-              </svg>
-            </a>
           </div>
         </div>
       </div>
@@ -559,10 +483,11 @@ Software Development Process</p>
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
           <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-              <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-              <circle cx="12" cy="7" r="4"></circle>
-            </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 4.875c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5A1.125 1.125 0 013.75 9.375v-4.5zM3.75 14.625c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5a1.125 1.125 0 01-1.125-1.125v-4.5zM13.5 4.875c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5A1.125 1.125 0 0113.5 9.375v-4.5z" />
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 6.75h.75v.75h-.75v-.75zM6.75 16.5h.75v.75h-.75v-.75zM16.5 6.75h.75v.75h-.75v-.75zM13.5 13.5h.75v.75h-.75v-.75zM13.5 19.5h.75v.75h-.75v-.75zM19.5 13.5h.75v.75h-.75v-.75zM19.5 19.5h.75v.75h-.75v-.75zM16.5 16.5h.75v.75h-.75v-.75z" />
+</svg>
+
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">System Training</h2>
@@ -574,10 +499,10 @@ Software Development Process</p>
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
           <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-              <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-              <circle cx="12" cy="7" r="4"></circle>
-            </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z" />
+</svg>
+
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">Project Acceptance</h2>
@@ -589,10 +514,10 @@ Software Development Process</p>
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
           </div>
           <div class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-600 inline-flex items-center justify-center text-white relative z-10">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-              <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-              <circle cx="12" cy="7" r="4"></circle>
-            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 15a4.5 4.5 0 004.5 4.5H18a3.75 3.75 0 001.332-7.257 3 3 0 00-3.758-3.848 5.25 5.25 0 00-10.233 2.33A4.502 4.502 0 002.25 15z" />
+</svg>
+
           </div>
           <div class="flex-grow pl-4">
             <h2 class="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">Online Operations</h2>
@@ -612,209 +537,10 @@ Software Development Process</p>
           </div>
         </div>
       </div>
-      <img class="lg:w-3/5 md:w-1/2 object-cover object-center rounded-lg md:mt-0 mt-12" src="https://dummyimage.com/1200x500" alt="step"/>
+      <Image class="lg:w-3/5 md:w-1/2 rounded-lg md:mt-0 mt-12" src={koxImg} alt="step"/>
     </div>
   </div>
      </section> 
-     <section class="text-gray-600 body-font" id='team'>
-  <div class="container px-5 py-24 mx-auto">
-    <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="text-2xl font-medium title-font mb-4 text-gray-900">OUR TEAM</h1>
-      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">We will deliver the best job with the best team.</p>
-    </div>
-    <div class="flex flex-wrap -m-4">
-      <div class="p-4 lg:w-1/4 md:w-1/2">
-        <div class="h-full flex flex-col items-center text-center">
-          <Image alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src={PImg1} />
-          <div class="w-full">
-            <h2 class="title-font font-medium text-lg text-gray-900">Ashutosh Singh</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
-            <span class="inline-flex">
-              <a class="text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
-                </svg>
-              </a>
-            </span>
-          </div>
-        </div>
-      </div>
-      <div class="p-4 lg:w-1/4 md:w-1/2">
-        <div class="h-full flex flex-col items-center text-center">
-          <Image alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src={PImg2}/>
-          <div class="w-full">
-            <h2 class="title-font font-medium text-lg text-gray-900">Ayush Pandey</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
-            <span class="inline-flex">
-              <a class="text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
-                </svg>
-              </a>
-            </span>
-          </div>
-        </div>
-      </div>
-      <div class="p-4 lg:w-1/4 md:w-1/2">
-        <div class="h-full flex flex-col items-center text-center">
-          <Image alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src={PImg3}/>
-          <div class="w-full">
-            <h2 class="title-font font-medium text-lg text-gray-900">Rajeev Ranjan</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
-            <span class="inline-flex">
-              <a class="text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
-                </svg>
-              </a>
-            </span>
-          </div>
-        </div>
-      </div>
-      <div class="p-4 lg:w-1/4 md:w-1/2">
-        <div class="h-full flex flex-col items-center text-center">
-          <Image alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src={PImg4}/>
-          <div class="w-full">
-            <h2 class="title-font font-medium text-lg text-gray-900">Gopesh Dubey</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
-            <span class="inline-flex">
-              <a class="text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
-                </svg>
-              </a>
-            </span>
-          </div>
-        </div>
-      </div>
-      <div class="p-4 lg:w-1/4 md:w-1/2">
-        <div class="h-full flex flex-col items-center text-center">
-          <Image alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src={PImg5}/>
-          <div class="w-full">
-            <h2 class="title-font font-medium text-lg text-gray-900">Raushan Kumar</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
-            <span class="inline-flex">
-              <a class="text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
-                </svg>
-              </a>
-            </span>
-          </div>
-        </div>
-      </div>
-      <div class="p-4 lg:w-1/4 md:w-1/2">
-        <div class="h-full flex flex-col items-center text-center">
-          <Image alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src={PImg6}/>
-          <div class="w-full">
-            <h2 class="title-font font-medium text-lg text-gray-900">Rishabh Sharma</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
-            <span class="inline-flex">
-              <a class="text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
-                </svg>
-              </a>
-            </span>
-          </div>
-        </div>
-      </div>
-      <div class="p-4 lg:w-1/4 md:w-1/2">
-        <div class="h-full flex flex-col items-center text-center">
-          <Image alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src={PImg7}/>
-          <div class="w-full">
-            <h2 class="title-font font-medium text-lg text-gray-900">Sundeep Kumar</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
-            <span class="inline-flex">
-              <a class="text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
-                </svg>
-              </a>
-              <a class="ml-2 text-gray-500">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                  <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
-                </svg>
-              </a>
-            </span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-      </section>
       <section class="text-gray-600 body-font" id='company'>
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
@@ -858,25 +584,25 @@ Software Development Process</p>
      <section class="text-gray-600 body-font relative" id='contact'>
   <div class="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
     <div class="lg:w-2/3 md:w-1/2 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
-      <iframe width="100%" height="100%" class="absolute inset-0" frameborder="0" title="map" marginheight="0" marginwidth="0" scrolling="no" src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=%C4%B0zmir+(My%20Business%20Name)&ie=UTF8&t=&z=14&iwloc=B&output=embed"></iframe>
+      <iframe width="100%" height="100%" class="absolute inset-0" frameborder="0" title="map" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.9874203721874!2d77.07571381485424!3d28.449795599079273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18ebab5e8267%3A0xd7601e9d0157e080!2sSector%2043%20Rd%2C%20Block%20C%2C%20Sushant%20Lok%20Phase%20I%2C%20Sector%2043%2C%20Gurugram%2C%20Haryana%20122022!5e0!3m2!1sen!2sin!4v1670853468147!5m2!1sen!2sin"></iframe>
       <div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
         <div class="lg:w-1/2 px-6">
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
-          <p class="mt-1">Since 1987 established fact that a reader will be distracted by the readable content of a page.</p>
+          <p class="mt-1">Sushant Lok Phase-1, Sector 43, Gurgaon <br />122009, Haryana, India.</p>
         </div>
         <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
-          <a class="text-blue-600 leading-relaxed">Blockchainmasters@email.com</a>
+          <a class="text-blue-600 leading-relaxed">reactjsofficial1@email.com</a>
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">INSTANT CHAT</h2>
           <a class="text-blue-600 leading-relaxed">Open Chat</a>
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
-          <p class="leading-relaxed">+91 7209236123</p>
+          <p class="leading-relaxed">+91 7209236123 | +91 7764056669</p>
         </div>
       </div>
     </div>
     <div class="p-3 lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
       <h2 class="text-gray-900 text-lg mb-1 font-medium title-font">Reqeust Call</h2>
-      <p class="leading-relaxed mb-5 text-gray-600">Post-ironic portland shabby chic echo park, banjo fashion axe</p>
+      <p class="leading-relaxed mb-5 text-gray-600">Connect with us and let us help you with Your projects!</p>
       <div class="relative mb-4">
         <label for="name" class="leading-7 text-sm text-gray-600">Name</label>
         <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-blue-600 focus:ring-2 focus:ring-green-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
